@@ -11,9 +11,8 @@ I Speak
 * VBS 🌘 (first language I learned)
 
 Others
-* json
-* json5
-* TOML
+* json, json5
+* TOML, INI
 * YAML
 * XML
 * HTML
