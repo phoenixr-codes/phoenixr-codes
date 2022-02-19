@@ -5,10 +5,10 @@ phoenixR
 ---------
 
 I Speak
-* Python 🌕 // focusing on this
+* Python 🌕 (focusing on this)
 * Javascript 🌗
 * C 🌘
-* VBS 🌘 // first language i learned
+* VBS 🌘 (first language I learned)
 
 Others
 * json
