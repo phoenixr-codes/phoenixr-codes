@@ -41,4 +41,4 @@ Others
 
 ## 🏗️ Projects
 
-nothing special yet ¯\_(ツ)_/¯
+nothing special yet ツ
