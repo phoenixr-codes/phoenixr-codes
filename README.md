@@ -1,7 +1,7 @@
 phoenixR
 ========
 
-🧑🏽‍💻 Coding
+👨🏽‍💻 Coding
 ---------
 
 I Speak
@@ -21,7 +21,7 @@ Others
 * Markdown
 
 
-🙋🏽 About Me
+🙋🏽‍♂️ About Me
 -----------
 
 * ♂️ Male
