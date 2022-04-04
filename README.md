@@ -7,16 +7,17 @@ phoenixR
 I Speak
 * Python 🌕 (focusing on this)
 * Javascript 🌗
+* Java 🌘
 * C 🌘
-* VBS 🌘 (first language I learned)
+* VBS 🌘 (first language I "learned")
 
 Others
 * json, json5
 * TOML, INI
-* YAML
+* YAML ♥️
 * XML
 * HTML
-* CSS
+* CSS ☠️
 * SCSS / SASS
 * Markdown
 
