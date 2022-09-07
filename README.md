@@ -4,10 +4,8 @@ phoenixR
 👨🏽‍💻 Coding
 ---------
 
-* Java 🌘
-* Javascript 🌘
-* Python 🌕
-* Rust 🌘
+* Python
+* Rust
 
 
 🙋🏽‍♂️ About Me
