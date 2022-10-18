@@ -1,28 +1,26 @@
 phoenixR
 ========
 
-👨🏽‍💻 Coding
----------
+👨🏽‍💻 Coding in
+------------
 
-* Python
-* Rust
+* 🐍 Python
+* 🦀 Rust
 
 
 🙋🏽‍♂️ About Me
 -----------
 
 * ♂️ Male
-* 🎒 Currently In School
+* 🎒 Student
 * 🎮 Gamer
-* 🇩🇪 German
 
 
 💬 Languages
 ------------
 
-* 🇩🇪 German 🌕
-* 🇬🇧 English 🌖
-* 🇫🇷 French 🌘
+* 🇩🇪 German
+* 🇬🇧 English
 
 
 ## 🏗️ Projects
