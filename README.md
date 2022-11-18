@@ -25,4 +25,4 @@ phoenixR
 
 ## 🏗️ Projects
 
-nothing special yet ツ
+See the pinned repos.
