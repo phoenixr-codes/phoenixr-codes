@@ -24,7 +24,7 @@ phoenixR
 
 Socials
 -------
-* [PyPI](https://pypi.org/users/phoenixR)
+* [PyPI](https://pypi.org/user/phoenixR)
 
 
 🏗️ Projects
