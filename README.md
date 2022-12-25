@@ -22,7 +22,12 @@ phoenixR
 * 🇩🇪 German
 * 🇬🇧 English
 
+Socials
+-------
+* [PyPI](https://pypi.org/users/phoenixR)
 
-## 🏗️ Projects
+
+🏗️ Projects
+----------
 
 See the pinned repos.
