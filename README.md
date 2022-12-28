@@ -25,6 +25,7 @@ phoenixR
 Socials
 -------
 * [PyPI](https://pypi.org/user/phoenixR)
+* [crates.io]jhttps://crates.io/users/phoenixr-codes)
 
 
 🏗️ Projects
