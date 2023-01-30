@@ -22,8 +22,10 @@ phoenixR
 * 🇩🇪 German
 * 🇬🇧 English
 
-Socials
--------
+
+📱 Socials
+-----------
+
 * [PyPI](https://pypi.org/user/phoenixR)
 * [crates.io](https://crates.io/users/phoenixr-codes)
 
