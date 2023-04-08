@@ -14,6 +14,7 @@ phoenixR
 * 🦀 Become good at Rust
 * 🎯 Learn Flutter + Dart
 * 🍇 Learn Emojicode
+* 🦨 Take a look at V
 
 
 🙋🏽‍♂️ About Me
