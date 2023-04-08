@@ -36,9 +36,3 @@ phoenixR
 
 * [PyPI](https://pypi.org/user/phoenixR)
 * [crates.io](https://crates.io/users/phoenixr-codes)
-
-
-🏗️ Projects
-----------
-
-See the pinned repos.
