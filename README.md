@@ -8,6 +8,14 @@ phoenixR
 * 🦀 Rust
 
 
+🔮 Future Plans
+--------------
+
+* 🦀 Become good at Rust
+* 🎯 Learn Flutter + Dart
+* 🍇 Learn Emojicode
+
+
 🙋🏽‍♂️ About Me
 -----------
 
