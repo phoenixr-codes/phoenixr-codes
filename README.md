@@ -17,10 +17,10 @@ Jonas da Silva alias "phoenixR"
 🔮 Future Plans
 --------------
 
-* 🦀 Become good at Rust
-* 🎯 Learn Flutter + Dart
-* 🍇 Learn Emojicode
-* 🦨 Take a look at V
+* 🦀 Become good at [Rust](https://github.com/rust-lang)
+* 🎯 Learn [Flutter](https://github.com/flutter) + [Dart](https://github.com/dart-lang)
+* 🍇 Learn [Emojicode](https://github.com/emojicode)
+* 🦨 Take a look at [V](https://github.com/vlang)
 
 
 🙋🏽‍♂️ About Me
@@ -41,7 +41,7 @@ Jonas da Silva alias "phoenixR"
 📱 Socials
 -----------
 
-None, besides GitHub and
+None to mention, besides GitHub and
 
 * [PyPI](https://pypi.org/user/phoenixR)
 * [crates.io](https://crates.io/users/phoenixr-codes)
