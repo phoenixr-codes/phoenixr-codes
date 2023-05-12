@@ -23,6 +23,11 @@ Jonas da Silva alias "phoenixR"
 * 🦨 Take a look at [V](https://github.com/vlang)
 
 
+🏗️ Future Projects
+=================
+
+* [fortnitepy](https://github.com/Terbau/fortnitepy) + [Blockly](https://github.com/google/blockly)
+
 🙋🏽‍♂️ About Me
 -----------
 
