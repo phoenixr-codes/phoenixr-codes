@@ -1,21 +1,18 @@
-Jonas da Silva alias "phoenixR"
-===============================
+# Jonas da Silva *alias* "phoenixR"
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenixr-codes&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixr-codes&hide=Makefile,Batchfile&theme=dracula)
 
-*Generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
+*Generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ♥️*
 
-👨🏽‍💻 Coding in
-------------
+## 👨🏽‍💻 Coding in
 
 * 🐍 Python
 * 🦀 Rust
 
 
-🔮 Future Plans
---------------
+## 🔮 Future Plans
 
 * 🦀 Become good at [Rust](https://www.rust-lang.org)
 * 🟰 Learn [Haskell](https://www.haskell.org)
@@ -24,28 +21,24 @@ Jonas da Silva alias "phoenixR"
 * 🦨 Take a look at [V](https://vlang.io)
 
 
-🏗️ Future Projects
------------------
+## 🏗️ Future Projects
 
 * [fortnitepy](https://github.com/Terbau/fortnitepy) + [Blockly](https://github.com/google/blockly)
 
-🙋🏽‍♂️ About Me
------------
+## 🙋🏽‍♂️ About Me
 
 * ♂️ Male
 * 🎒 Student
 * 🎮 Gamer
 
 
-💬 Languages
-------------
+## 💬 Languages
 
 * 🇩🇪 German
 * 🇬🇧 English
 
 
-📱 Socials
------------
+## 📱 Socials
 
 None to mention, besides GitHub and
 
@@ -61,8 +54,7 @@ None to mention, besides GitHub and
   >
   ++
   <
-]
->
+]>
 +++
 .
 [
@@ -70,8 +62,7 @@ None to mention, besides GitHub and
   >
   +++++++
   <
-]
->
+]>
 .
 ++++++
 .
@@ -81,8 +72,7 @@ None to mention, besides GitHub and
   >
   +
   <
-]
->
+]>
 +++
 .
 [
@@ -90,8 +80,7 @@ None to mention, besides GitHub and
   >
   +++
   <
-]
->
+]>
 +
 .
 --
@@ -100,8 +89,7 @@ None to mention, besides GitHub and
   >
   +
   <
-]
->
+]>
 ---
 .
 -------------
@@ -112,8 +100,7 @@ None to mention, besides GitHub and
   >
   +
   <
-]
->
+]>
 -
 .
 [
@@ -121,8 +108,7 @@ None to mention, besides GitHub and
   >
   +++
   <
-]
->
+]>
 +
 .
 -
@@ -131,8 +117,7 @@ None to mention, besides GitHub and
   >
   +++
   <
-]
->
+]>
 .
 ---
 [
@@ -140,8 +125,7 @@ None to mention, besides GitHub and
   >
   ++++
   <
-]
->
+]>
 .
 --
 .
@@ -153,8 +137,7 @@ None to mention, besides GitHub and
   >
   +++
   <
-]
->
+]>
 .
 --
 [
@@ -162,8 +145,7 @@ None to mention, besides GitHub and
   >
   +
   <
-]
->
+]>
 -
 .
 ++
@@ -172,8 +154,7 @@ None to mention, besides GitHub and
   >
   ++
   <
-]
->
+]>
 .
 -------
 .
@@ -191,7 +172,6 @@ None to mention, besides GitHub and
   >
   +
   <
-]
->
+]>
 .
 ```
