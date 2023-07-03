@@ -10,8 +10,8 @@ Part of [Bedrock WS Team](https://github.com/bedrock-ws).
 
 ## 👨🏽‍💻 Coding in
 
-* 🐍 Python
-* 🦀 Rust
+* 🐍 [Python](https://github.com/phoenixr-codes?tab=repositories&q=&type=&language=python&sort=)
+* 🦀 [Rust](https://github.com/phoenixr-codes?tab=repositories&q=&type=&language=rust&sort=)
 
 
 ## 🔮 Future Plans
