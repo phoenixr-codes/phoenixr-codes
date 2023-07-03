@@ -6,6 +6,8 @@
 
 *Generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ♥️*
 
+Part of [Bedrock WS Team](https://github.com/bedrock-ws).
+
 ## 👨🏽‍💻 Coding in
 
 * 🐍 Python
@@ -23,13 +25,9 @@
 
 ## 🏗️ Future Projects
 
+Some ideas I might code in the future.
+
 * [fortnitepy](https://github.com/Terbau/fortnitepy) + [Blockly](https://github.com/google/blockly)
-
-## 🙋🏽‍♂️ About Me
-
-* ♂️ Male
-* 🎒 Student
-* 🎮 Gamer
 
 
 ## 💬 Languages
@@ -37,13 +35,6 @@
 * 🇩🇪 German
 * 🇬🇧 English
 
-
-## 📱 Socials
-
-None to mention, besides GitHub and
-
-* [PyPI](https://pypi.org/user/phoenixR)
-* [crates.io](https://crates.io/users/phoenixr-codes)
 
 ---
 
