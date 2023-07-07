@@ -28,6 +28,7 @@ Part of [Bedrock WS Team](https://github.com/bedrock-ws).
 Some ideas I might code in the future.
 
 * [fortnitepy](https://github.com/Terbau/fortnitepy) + [Blockly](https://github.com/google/blockly)
+* [mcstructure](https://github.com/phoenixr-codes/mcstructure) + [bedrockpy](https://github.com/bedrock-ws/bedrockpy)
 
 
 ## 💬 Languages
