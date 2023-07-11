@@ -18,9 +18,9 @@ Part of [Bedrock WS Team](https://github.com/bedrock-ws).
 
 * 🦀 Become good at [Rust](https://www.rust-lang.org)
 * 🟰 Learn [Haskell](https://www.haskell.org)
+* 🦨 Learn [V](https://vlang.io)
 * 🎯 Learn [Flutter](https://flutter.dev) + [Dart](https://dart.dev)
 * 🍇 Learn [Emojicode](https://www.emojicode.org)
-* 🦨 Take a look at [V](https://vlang.io)
 
 
 ## 🏗️ Future Projects
