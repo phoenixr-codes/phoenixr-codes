@@ -6,7 +6,6 @@
 
 *Generated with [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) ♥️*
 
-Part of [Bedrock WS Team](https://github.com/bedrock-ws).
 
 ## 👨🏽‍💻 Coding in
 
@@ -16,19 +15,10 @@ Part of [Bedrock WS Team](https://github.com/bedrock-ws).
 
 ## 🔮 Future Plans
 
-* 🦀 Become good at [Rust](https://www.rust-lang.org)
 * 🟰 Learn [Haskell](https://www.haskell.org)
 * 🦨 Learn [V](https://vlang.io)
 * 🎯 Learn [Dart](https://dart.dev)
 * 🍇 Learn [Emojicode](https://www.emojicode.org)
-
-
-## 🏗️ Future Projects
-
-Some ideas I might code in the future.
-
-* [fortnitepy](https://github.com/Terbau/fortnitepy) + [Blockly](https://github.com/google/blockly)
-* [mcstructure](https://github.com/phoenixr-codes/mcstructure) + [bedrockpy](https://github.com/bedrock-ws/bedrockpy)
 
 
 ## 💬 Languages
