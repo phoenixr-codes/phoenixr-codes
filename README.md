@@ -16,9 +16,7 @@
 ## 🔮 Future Plans
 
 * 🟰 Learn [Haskell](https://www.haskell.org)
-* 🦨 Learn [V](https://vlang.io)
-* 🎯 Learn [Dart](https://dart.dev)
-* 🍇 Learn [Emojicode](https://www.emojicode.org)
+* 👑 Learn [Nim](https://nim-lang.org)
 
 
 ## 💬 Languages
