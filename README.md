@@ -33,6 +33,7 @@ Hey! I am Jonas. I like making terminal applications.
 
 * Operating System: [Endeavour OS](https://endeavouros.com) (i use arch btw)
 * Editor: [Helix](https://helix-editor.com)
+* Mobile: [Termux](https://termux.dev/en/)
 
 
 ## 🔮 Future Plans
