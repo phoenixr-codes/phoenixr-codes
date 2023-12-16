@@ -18,7 +18,7 @@ Hey! I am Jonas. I like making terminal applications.
 
 ## 📖 mdBook Related Projects
 
-- [code block +](https://github.com/phoenixr-codes/mdbook-code-block-plus)
+- [whichlang](https://github.com/phoenixr-codes/mdbook-whichlang)
 - [inline highlighting](https://github.com/phoenixr-codes/mdbook-inline-highlighting)
 - [webinclude](https://github.com/phoenixr-codes/mdbook-webinclude)
 
