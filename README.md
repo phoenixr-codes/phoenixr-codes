@@ -9,7 +9,6 @@ Hey! I am Jonas. I like making terminal applications.
 
 - [Allay](https://github.com/allay-mc/allay)
 - [bedrockpy](https://github.com/bedrock-ws/bedrockpy)
-- [mcfn](https://github.com/allay-mc/mcfn)
 - [mcnbt](https://github.com/phoenixr-codes/mcnbt)
 - [mcstructure](https://github.com/phoenixr-codes/mcstructure)
 - [Transparent Pumpkin Add-On](https://github.com/phoenixr-codes/transparent-pumpkin)
@@ -36,13 +35,7 @@ Hey! I am Jonas. I like making terminal applications.
 * Mobile: [Termux](https://termux.dev/en/)
 
 
-## 🔮 Future Plans
-
-* 🟰 Learn [Haskell](https://www.haskell.org)
-* 👑 Learn [Nim](https://nim-lang.org)
-
-
-## 💬 Languages
+## 💬 Natural Languages
 
 * 🇩🇪 German
 * 🇬🇧 English
