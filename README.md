@@ -31,7 +31,7 @@ Hey! I am Jonas. I like making terminal applications.
 ## ✍️ Coding with
 
 * Operating System: [Endeavour OS](https://endeavouros.com) (i use arch btw)
-* Editor: [Helix](https://helix-editor.com)
+* Editor: [NvChad](https://nvchad.com)
 * Mobile: [Termux](https://termux.dev/en/)
 
 
