@@ -1,5 +1,5 @@
 <h1 align="center">
-  Jonas da Silva *alias* "phoenixR"
+  Jonas da Silva <i>alias</i> "phoenixR"
 </h1>
 
 <p align="center">
