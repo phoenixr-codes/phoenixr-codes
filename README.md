@@ -61,29 +61,12 @@
   <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
+## 🏗️ Interesting Projects
 
-## 🏗️ Minecraft Related Projects
-
-- [Allay](https://github.com/allay-mc/allay)
-- [bedrockpy](https://github.com/bedrock-ws/bedrockpy)
-- [mcnbt](https://github.com/phoenixr-codes/mcnbt)
-- [mcstructure](https://github.com/phoenixr-codes/mcstructure)
-- [Transparent Pumpkin Add-On](https://github.com/phoenixr-codes/transparent-pumpkin)
-- and some more minor projects …
-
-
-## 📖 mdBook Related Projects
-
-- [whichlang](https://github.com/phoenixr-codes/mdbook-whichlang)
-- [inline highlighting](https://github.com/phoenixr-codes/mdbook-inline-highlighting)
-- [webinclude](https://github.com/phoenixr-codes/mdbook-webinclude)
-
-
-## 👨🏽‍💻 Coding in
-
-* 🐍 [Python](https://github.com/phoenixr-codes?tab=repositories&q=&type=&language=python&sort=)
-* 🦀 [Rust](https://github.com/phoenixr-codes?tab=repositories&q=&type=&language=rust&sort=)
-
+* [mcstructure](https://github.com/phoenixr-codes/mcstructure) - Read and write Minecraft .mcstructure files.
+* [bedrockpy](https://github.com/bedrock-ws/bedrockpy) - Minecraft: Bedrock Edition Websocket Server
+* [whichlang](https://github.com/phoenixr-codes/mdbook-whichlang) - Powerful Code Blocks for mdBook.
+* [Allay](https://github.com/allay-mc/allay) - Your Personal Creator Assistant
 
 ## ✍️ Coding with
 
